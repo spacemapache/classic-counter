@@ -1,11 +1,16 @@
 .counterApp {
-  border: 1px solid black;
   align-items: center;
+}
+
+.number {
+  font-size: 30px;
+  padding: 5px;
 }
 
 .buttons {
   display: flex;
   flex-direction: column;
+  padding: 5px;
 }
 
 button {
