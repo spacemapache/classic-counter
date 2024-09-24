@@ -1,0 +1,18 @@
+.counterApp {
+  border: 1px solid black;
+  align-items: center;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(81, 31, 80);
+  color: white;
+}
